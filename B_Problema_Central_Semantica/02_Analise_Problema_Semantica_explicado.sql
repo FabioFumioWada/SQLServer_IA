@@ -6,7 +6,7 @@ Agora teste a pergunta que criamos:
 */
 
 DECLARE @Pergunta NVARCHAR(1000) =
-    'Posso eliminar uma disciplina que ja cursei anteriormente?';
+    'Posso eliminar uma disciplina que ja cursei anterilormente?';
 
 SELECT
     D.IdDocumento,

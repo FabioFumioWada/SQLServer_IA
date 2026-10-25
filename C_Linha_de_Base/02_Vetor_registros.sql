@@ -2,6 +2,8 @@
 
 Agora vamos inserir alguns vetores didáticos:
 */
+USE LAB_IA_SQL2025;
+GO
 
 INSERT INTO dbo.LabVetor
 (
